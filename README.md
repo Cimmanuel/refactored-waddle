@@ -1,1 +1,1 @@
-# refactored-waddle
+# Basic HMAC Authentication Logic Using Golang
